@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "bradlc.vscode-tailwindcss",
+        "oven.bun-vscode",
+        "dbaeumer.vscode-eslint",
+        "streetsidesoftware.code-spell-checker",
+        "antfu.file-nesting",
+        "esbenp.prettier-vscode",
+        "amatiasq.sort-imports",
+        "eliostruyf.vscode-typescript-exportallmodules"
+    ]
+}
